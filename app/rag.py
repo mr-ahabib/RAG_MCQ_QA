@@ -16,7 +16,7 @@ from huggingface_hub import login
 from .models import Chunk, Retrieval, rag_state
 from .utils import clean_text  
 
-HF_TOKEN = "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"
+HF_TOKEN = ""
 
 
 
